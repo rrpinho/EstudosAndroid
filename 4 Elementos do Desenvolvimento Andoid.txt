@@ -1,0 +1,18 @@
+1°: Conceitos Básicos
+2°: Interface Gráfica
+3°: Manipulação de dados
+4°: Ferramentas
+
+#Conceitos Básicos
+ -Arquitetura de um aplicativo e plataforma Andoid: Activity; Intent
+ -Arquitetura de um projeto Andoid no Android Studio: Views;ViewGroups
+
+#Interface Gráfica
+ -Design (listas e designs de celular/tablet)
+
+#Manipulação de dados
+ -Cloud
+ -Guardar e manipular dados internos
+
+#Ferramentas
+ -Recursos Andoid (bluetooph; Camera; Mapas)

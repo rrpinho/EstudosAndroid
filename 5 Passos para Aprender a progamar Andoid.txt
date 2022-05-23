@@ -1,0 +1,11 @@
+#1 passo: Estudar Java -> E-book: Java Essencial para Android
+
+#2 passo: Preparar o ambiente Andoid -> E-book: Começando com Andoid Studio
+
+#3 passo: Documentações do Android (developers)
+ ->https://developer.andoid.com/reference/packages.html
+ ->https://developer.andoid.com/design/index.html
+
+#4 passo: NÃO USE O Ctrl+C/Ctrl+V; E sim Ler, entender, escrever
+
+#5 passo: Criar, recriar... Treinar
